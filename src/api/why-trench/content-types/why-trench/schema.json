@@ -1,0 +1,14 @@
+{
+  "kind": "singleType",
+  "collectionName": "why_trenches",
+  "info": {
+    "singularName": "why-trench",
+    "pluralName": "why-trenches",
+    "displayName": "Why Trench"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

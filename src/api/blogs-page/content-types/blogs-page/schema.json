@@ -1,0 +1,14 @@
+{
+  "kind": "singleType",
+  "collectionName": "blogs_pages",
+  "info": {
+    "singularName": "blogs-page",
+    "pluralName": "blogs-pages",
+    "displayName": "Blogs Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

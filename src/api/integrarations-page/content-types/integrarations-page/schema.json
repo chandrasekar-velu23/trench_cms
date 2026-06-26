@@ -1,0 +1,14 @@
+{
+  "kind": "singleType",
+  "collectionName": "integrarations_pages",
+  "info": {
+    "singularName": "integrarations-page",
+    "pluralName": "integrarations-pages",
+    "displayName": "Integrarations_page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
